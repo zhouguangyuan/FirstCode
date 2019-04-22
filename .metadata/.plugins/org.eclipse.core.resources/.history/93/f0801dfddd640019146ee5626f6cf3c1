@@ -1,0 +1,14 @@
+package com.kevin.ch2;
+
+public class TestDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*此处为注释，编译代码时不编译
+		 * 
+		 */
+		System.out.println("Hello MLDN.");
+
+	}
+
+}
