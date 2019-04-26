@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.kevin.ch2;
+
+/**
+ * @author Kevin Zhou
+ * @date 2019年4月26日 上午11:09:30
+ * 类说明
+ */
+public class TestDemo07 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

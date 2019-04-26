@@ -23,7 +23,7 @@ public class TestDemo {
 		System.out.println("max="+ max);
 		System.out.println("min="+ min);
 		
-		System.out.println(max+1);
+		System.out.println(max+);
 		System.out.println(min-1);
 		System.out.println(min-2);
 		

@@ -4,7 +4,7 @@ package com.kevin.ch2;
  * @author Kevin Zhou
  */
 
-public class TestDemo {
+public class TestDemo06{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
