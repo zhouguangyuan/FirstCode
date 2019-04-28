@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package ch2;
+
+/**
+ * @author Kevin Zhou
+ * @date 2019年4月28日 下午9:35:21
+ * 类说明：
+ * 要点说明：
+ */
+public class TestDemo13 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		long num = 2147483649L ;
+		
+		int x = (int) num ;
+		System.out.println(x);
+
+	}
+
+}

@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package ch2;
+
+/**
+ * @author Kevin Zhou
+ * @date 2019年4月26日 下午5:27:23
+ * 类说明：
+ * 要点说明：
+ */
+public class TestDemo12 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+	}
+
+}
